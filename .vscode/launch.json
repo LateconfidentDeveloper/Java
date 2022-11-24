@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Song",
+            "request": "launch",
+            "mainClass": "Song",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeNames",
+            "request": "launch",
+            "mainClass": "MergeNames",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch DaimondPattern",
+            "request": "launch",
+            "mainClass": "DaimondPattern",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDArray1",
+            "request": "launch",
+            "mainClass": "TwoDArray1",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays3",
+            "request": "launch",
+            "mainClass": "Arrays3",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays2",
+            "request": "launch",
+            "mainClass": "Arrays2",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function3",
+            "request": "launch",
+            "mainClass": "Function3",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function2",
+            "request": "launch",
+            "mainClass": "Function2",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function1",
+            "request": "launch",
+            "mainClass": "Function1",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditions_1",
+            "request": "launch",
+            "mainClass": "Conditions_1",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditions_2",
+            "request": "launch",
+            "mainClass": "Conditions_2",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern_Stars",
+            "request": "launch",
+            "mainClass": "Pattern_Stars",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "JAVA_c9453770"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vote",
+            "request": "launch",
+            "mainClass": "Vote",
+            "projectName": "JAVA_c9453770"
+        }
+    ]
+}
